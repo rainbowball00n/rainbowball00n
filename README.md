@@ -7,8 +7,11 @@
   <br>
 
 <p align="center"><img
-    src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pjtzcmpvhhe65n4f2e2zmfjvba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=ffffff"
-    style="display:block; margin: 0 auto 20px auto;"
+ <a href="https://github.com/kittinan/spotify-github-profile">
+    <img
+      src="https://spotify-github-profile.kittinanx.com/api/view?uid=31pjtzcmpvhhe65n4f2e2zmfjvba&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color_cover=true"
+      style="display:block; margin: 0 auto 20px auto;"
+      alt="Spotify"    style="display:block; margin: 0 auto 20px auto;"
     alt="Spotify"
   /></p>
   
